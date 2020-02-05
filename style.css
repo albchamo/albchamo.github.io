@@ -1,0 +1,73 @@
+#myBar {
+  text-align: center;
+  width: 10%;
+  height: 45px;
+  background-color:#00b4ea;/* To center it horizontally (if you want) */
+  line-height: 45px; /* To center it vertically */
+  color: white;
+  font-size: 25px;
+  border-radius: 25.5px;
+}
+
+#myProgress{
+  border: solid 2px blue;
+  border-radius: 25.5px;
+  background-color: white;}
+
+button{
+  font-family: Roboto, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    margin: auto;
+    background-color: #00b4ea;
+    border-radius: 25.5px;
+    height: 51px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+  font-family: DIN Pro Medium, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    color: #1564d2;
+    margin-top: 30px;
+    text-align: center;
+}
+input{
+  border-radius: 25.5px;
+  background: #fff;
+  border: solid 2px #1564d2;
+  font: "Work Sans", sans-serif;
+  font-size:25px;
+  font-weight:600;
+  line-height:45px;
+  text-align: center;
+  height: 45px;
+  }
+
+
+form{
+  margin:auto;
+  font: "Work Sans", sans-serif;
+  font-size:25px;
+  font-weight:600;
+  line-height:28px;
+  text-align: center;
+  color: white;
+}
+
+input[type=number]:focus {
+  background-color: lightblue;
+}
+
+#container1{
+  background-color: #1564d2;
+  padding-bottom: 50px;
+  padding-left: 40px;
+  padding-right: 40px; 
+  padding-top: 50px; 
+}
